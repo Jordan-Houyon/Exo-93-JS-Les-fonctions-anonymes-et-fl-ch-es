@@ -1,13 +1,15 @@
 * {
-    margin: 0;
-    padding: 0;
+    margin: 10 px;
+    padding: 10px;
     box-sizing: border-box;
 }
 
 html {
-    font-size: 62.5%;
+    font-size: 100%;
 }
 
 body {
     width: 100%;
 }
+
+#alert:hover{background-color:red}
